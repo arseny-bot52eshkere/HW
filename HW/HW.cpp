@@ -1,5 +1,8 @@
 ﻿#include <iostream>
 
+void newfunction() {
+    std::cout << "new function";
+}
 int main()
 {
     std::cout << "woof\n";
